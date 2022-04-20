@@ -21,7 +21,7 @@ const Page = () => {
           <p>Digital Craftsman (Web Developer / Designer / UI & UX)</p>
         </Box>
         <Box flexShrink={0} mt={{base: 4, md: 0}} ml={{md: 6}} align="center">
-          <Image borderColor="whiteAlpha.800" borderWidth={2} borderStyle="solid" masWidth="100px" display="inline-block" borderRadius="full" src="/images/rodrigo3.jpg" alt="Imagem de perfil" />
+          <Image borderColor="whiteAlpha.800" borderWidth={2} borderStyle="solid" masWidth="100px" display="inline-block" borderRadius="full" src="/images/rodrigo.jpg" alt="Imagem de perfil" />
         </Box>
       </Box>
       <Section delay={0.1}>
@@ -80,7 +80,6 @@ const Page = () => {
           <BioYear>2021 - Present</BioYear>
           Estagiário em Tecnologia e Inovação, Plus Gestão & Tecnologia, utilizando Javascript, PHP, SQL.
         </BioSection>
-        
       </Section>
 
       <Section delay={0.2}>
