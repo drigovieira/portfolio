@@ -65,10 +65,6 @@ const Page = () => {
           Estágio de Engenharia de Qualidade na CPI Papéis, Cruzeiro/SP.
         </BioSection>
         <BioSection>
-          <BioYear>2022</BioYear>
-          Engenharia de Produção, Facic Cruzeiro.
-        </BioSection>
-        <BioSection>
           <BioYear>2018 - Present</BioYear>
           Professor de Língua Inglesa, Change Language School.
         </BioSection>
@@ -80,7 +76,10 @@ const Page = () => {
           <BioYear>2021 - Present</BioYear>
           Estagiário em Tecnologia e Inovação, Plus Gestão & Tecnologia, utilizando Javascript, PHP, SQL.
         </BioSection>
-        
+        <BioSection>
+          <BioYear>2022</BioYear>
+          Engenharia de Produção, Facic Cruzeiro.
+        </BioSection> 
       </Section>
 
       <Section delay={0.2}>
