@@ -31,8 +31,8 @@ const Page = () => {
             Work
           </Heading>
           <Paragraph>Estou graduando em Análise e Desenvolvimento de Sistemas na Fatec Prof. Waldomiro May, tenho conhecimento em desenvolvimento web, HTML, CSS, Javascript, PHP e também tenho conhecimento em banco de dados SQL, atualmente estou estudando ReactJS, e me aprofundando em Javascript e PHP. Morei em Dublin, Irlanda por um ano, então meu inglês é nível avaçado. Futuramente pretendo me aprofundar em NodeJS para back-end e VueJS para front-end. Atualmente estou trabalhando no projeto {' '}
-            <NextLink href="/works/inkdrop"><Link>Inkdrop</Link></NextLink>
-            .
+            <NextLink href="/works/inkdrop"><Link>Help Me</Link></NextLink>
+          .
           </Paragraph>
           <Box align="center" my={4}>
             <NextLink href="/works">
